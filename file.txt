@@ -1,3 +1,4 @@
 First line added in file, 1st commit
 Second line added in file, 2nd commit
-third line
+third line added in file, 3rd commit
+
